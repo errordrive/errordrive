@@ -1,96 +1,95 @@
-# 🚀 Nayem Hossain
+<!-- Animated header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3500&pause=500&color=30BCED&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=Hi+👋,+I'm+%40errordrive!;Welcome+to+my+GitHub+Universe.;Full-stack+Developer+%7C+Open-Source+Enthusiast+%7C+Tech+Explorer" alt="Typing SVG"/>
+</p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Android+Developer;SaaS+Builder;AI+%26+Prompt+Engineer;Future+Tech+Creator" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-💡 Passionate about building **smart apps & SaaS products** using AI
-📱 Specialized in **Android Development (Java)**
-🤖 Exploring **AI + Prompt Engineering**
-🚀 Goal: Build impactful tech products that solve real problems
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 👤 About Me
 
-### 📱 Mobile Development
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-
-### 🌐 Backend & APIs
-
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-### 🤖 AI & Tools
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
-
-### ⚙️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+- 🔭 Currently working on: **Cool new web apps, bots & automation tools**
+- 🌱 Learning: **AI, Next.js, TypeScript, Cloud Functions**
+- 🧩 Love building: **APIs, scalable systems, fun side projects**
+- 💬 Ask me about: **JavaScript, Python, Git, or anything tech!**
+- ⚡ Fun fact: I can debug faster than I can brew a coffee! ☀️
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Languages & Tools
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs,express,html,css,git,github,mysql,mongodb,linux,aws" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170" />
+## 📈 My GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=errordrive&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=errordrive&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errordrive&layout=compact&theme=tokyonight&hide_border=true" height="140" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 Study Routine SaaS App
-
-> AI-powered system that generates questions & smart PDFs from study materials
-
-### 🤖 AI Question Generator
-
-> Converts images/notes into practice questions automatically
-
-### 📺 YouTube Clone
-
-> Built using YouTube Data API with custom UI & features
+| Project | Description | Demo |
+|---------|-------------|------|
+| [AwesomeApp](https://github.com/errordrive/awesomeapp) | 🚀 A modern, blazing-fast app template | [View](https://awesomeapp-demo.vercel.app/) |
+| [DevBot](https://github.com/errordrive/devbot) | 🤖 Automated coding assistant for Discord | ![bot gif](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif) |
 
 ---
 
-## 🧠 Current Focus
+## 📣 Let's Connect!
 
-* 🔥 Building AI-powered SaaS tools
-* 📱 Advanced Android UI without XML
-* 🤖 Automation & smart systems
+<p align="center">
+  <a href="https://twitter.com/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://errordrive.com">
+    <img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🧩 Fun Widgets
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify_user_id&cover_image=true&theme=novatorem&show_offline=false"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=errordrive&style=flat-square&color=brightgreen" alt=""/>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+<details>
+  <summary>📝 <strong>More About My Toolbox</strong></summary>
+  <br>
+  
+  - **Languages:** Python, JavaScript (Node.js & Browser), TypeScript
+  - **Frameworks:** React, Next.js, Express, Flask
+  - **Databases:** MySQL, MongoDB
+  - **DevOps:** Linux, Docker, AWS, Vercel
+  - **Other:** Git, REST APIs, CI/CD
+  
+</details>
 
-> I don't just use AI — I build systems with it 🚀
-
----
-
-<div align="center">
-
-✨ *"Code. Build. Scale."* ✨
-
-</div>
+<!-- 
+Feel free to customize this README with your own sections, widgets, and favorite projects!
+-->
